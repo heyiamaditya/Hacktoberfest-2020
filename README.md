@@ -54,6 +54,11 @@ Note: This event will run from October 10th 4:30 PM to October 12th 4:30 PM. Ple
 ## Useful Reference Links
 - [Forking the repo and creating pull requests](https://medium.com/@camelcaseguy/git-github-for-babies-by-shubhendra-7232c0486b99)
 - [Syncing a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+- Contribute:
+  - [Create an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue)
+  - [Fork a repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+  - Make changes in the forked repo
+  - [Create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-requestUp)
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [More Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Docs for any information related to GitHub](https://docs.github.com/en)
