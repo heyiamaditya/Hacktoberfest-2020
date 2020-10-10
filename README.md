@@ -34,7 +34,7 @@ Submitted in a public repo AND (
 ## How to participate in Hacktobefest Contributions Sprint by MPCJUET?
 1. It is necessary to have a GitHub account to participate in Hacktoberfest Contributions Sprint. So, ensure you have an account on GitHub.
 2. Fork this repository into your personal account. If you're new to Git and GitHub, check out [this blog](https://medium.com/@camelcaseguy/git-github-for-babies-by-shubhendra-7232c0486b99) to learn how to contribute to Git and GitHub.
-3. Create a markdown(md) file in the `SUBMISSION` folder with the following details:
+3. Create a markdown(md) file in the `SUBMISSION` folder with your name (for eg. MPCJUET.md) and the following details:
 ```  
   Name:
   Enrollment Number:
